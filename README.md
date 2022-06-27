@@ -20,6 +20,7 @@
 該項目包含各種工具的導向與介紹，其中針對系統和網絡管理員、DevOps、滲透測試人員和安全研究。**
 - **[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 教你如何有智慧的問一個問題**
+- **[技術面是基礎知識](https://github.com/CyC2018/CS-Notes) **
 
 # 技術
 
@@ -27,6 +28,10 @@
 NVIDIA Linux open GPU kernel module source**
 - **[waynedisonitau123](https://github.com/edisonhello/waynedisonitau123)
 超強競賽隊伍 waynedisonitau123 的 Codebook**
+- **[PHP CA Server](https://github.com/cuediin/PHP-Certificate-Authority-Server)
+help manage a CA or Multiple CA's. **
+- **[動畫SHA](https://github.com/in3rsha/sha256-animation)
+把SHA過程做成動畫 **
 
 # 有趣
 
@@ -34,3 +39,6 @@ NVIDIA Linux open GPU kernel module source**
 Rickroll QRcode生成器**
 - **[trust-zh-TW](https://github.com/audreyt/trust-zh-TW)
 合作博弈論的互動講解手冊**
+- **[可愛計數器](https://github.com/journey-ad/Moe-counter)
+多種風格可選的計數器**
+
