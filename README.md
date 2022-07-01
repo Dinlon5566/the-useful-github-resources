@@ -42,3 +42,7 @@ Rickroll QRcode生成器**
 - **[可愛計數器](https://github.com/journey-ad/Moe-counter)
 多種風格可選的計數器**
 
+# 外站
+
+- **[C++技巧筆記](https://www.cnblogs.com/KillerAery/p/11601229.html)
+CSDN中的重要的條款/經驗/技巧進行記錄總結**
