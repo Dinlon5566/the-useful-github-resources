@@ -38,6 +38,7 @@ help manage a CA or Multiple CA's.**
 把SHA過程做成動畫**
 - **[WTF python](https://github.com/satwikkansal/wtfpython) 一些python特性解說**
 - **[令狐老師算法小抄](https://github.com/ninechapter-algorithm/linghu-algorithm-templete) 刷題模板**
+- **[DeepFaceFake](https://github.com/iperov/DeepFaceLab)**
 
 # 有趣
 
