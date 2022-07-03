@@ -21,6 +21,10 @@
 - **[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 教你如何有智慧的問一個問題**
 - **[技術面試基礎知識](https://github.com/CyC2018/CS-Notes)**
+- **[編程簡中書索引](https://github.com/justjavac/free-programming-books-zh_CN)**
+- **[中國獨立開發列表](https://github.com/1c7/chinese-independent-developer)**
+- **[awesome](https://github.com/sindresorhus/awesome) 關於各領域有趣的技術列表**
+- **[Github每日榜單](https://github.com/trending)**
 
 # 技術
 
@@ -32,6 +36,8 @@ NVIDIA Linux open GPU kernel module source**
 help manage a CA or Multiple CA's.**
 - **[動畫SHA](https://github.com/in3rsha/sha256-animation)
 把SHA過程做成動畫**
+- **[WTF python](https://github.com/satwikkansal/wtfpython) 一些python特性解說**
+- **[令狐老師算法小抄](https://github.com/ninechapter-algorithm/linghu-algorithm-templete) 刷題模板**
 
 # 有趣
 
@@ -41,6 +47,8 @@ Rickroll QRcode生成器**
 合作博弈論的互動講解手冊**
 - **[可愛計數器](https://github.com/journey-ad/Moe-counter)
 多種風格可選的計數器**
+- **[幻影坦克](https://github.com/Nugine/mirage-tank) 利用PNG雙圖層特性來做出黑白背景有不同畫面的圖片**
+
 
 # 外站
 
